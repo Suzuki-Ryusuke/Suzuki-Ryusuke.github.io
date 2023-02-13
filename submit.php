@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style.css3">    
+    <link rel="stylesheet" href="style.css">    
 </head>
 <body>
     <div class="check"><h3>以下の内容で予約いたしました</h3></div>
@@ -34,7 +34,7 @@
                 echo "メールの送信に失敗しました";
             };
         ?>
-    <form action="top.php" method="post">
+    <form action="index.html" method="post">
         <input  class="return" type="submit" value="戻る"> 
     </form>
 </body>
