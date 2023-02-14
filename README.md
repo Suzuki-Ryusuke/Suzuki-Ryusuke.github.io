@@ -1,5 +1,8 @@
 # リンク  
-https://suzuki-ryusuke.github.io/
+Github
+https://suzuki-ryusuke.github.io/  
+AWS
+http://54.178.240.153/index.html  
 # 概要
 日程調整に使用するアプリです。  
 名前、メールアドレス、日付を記載し「次へ」のボタンを押すことで、完了画面へと遷移します。  
