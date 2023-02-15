@@ -19,6 +19,9 @@
             echo '<br>';
         ?></p>    
         </div>
+        <div>
+            <a href="mailto:$_POST['adress']">日程を確定しました</a>
+        </div>
        
        <?php 
             mb_language("Japanese");
@@ -34,7 +37,7 @@
                 echo "メールの送信に失敗しました";
             };
         ?>
-    <form action="index.html" method="post">
+    <form action="index.php" method="post">
         <input  class="return" type="submit" value="戻る"> 
     </form>
 </body>
